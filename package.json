@@ -1,0 +1,11 @@
+{
+  "name": "pascal-interpreter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sunny-mittal/pascal-interpreter.git",
+  "author": "Sunny Mittal <sunnymittal2003@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prelude-ls": "^1.1.2"
+  }
+}
